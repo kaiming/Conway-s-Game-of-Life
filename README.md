@@ -10,3 +10,5 @@ Game rules:
 • a dead cell with exactly three live neighbours comes to life; otherwise, it remains dead.
 
 Utilizes design patterns such as observers and MVC (Model View Controller). XWindows graphics is used to provide a GUI for the game board.
+
+For more information about the game, refer to https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
